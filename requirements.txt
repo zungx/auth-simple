@@ -1,0 +1,10 @@
+Flask~=2.2.2
+Flask-Cors==3.0.10
+Flask-INIConfig==0.1.0
+flask-sqlalchemy==2.5.1
+python-dotenv==0.19.2
+boto3==1.21.14
+pymysql==1.0.2
+pyjwt==2.5.0
+SQLAlchemy~=1.4.41
+Werkzeug~=2.2.2
